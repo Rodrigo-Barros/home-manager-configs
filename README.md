@@ -1,2 +1,2 @@
 # home-manager-configs
-home-manager-settings
+Personal Home manager settings
